@@ -13,7 +13,9 @@ int runways(int n, int A[], int D[]){
     for(int i=0;i<n;i++){
         // for(int j= A[i];j<=D[i];j++){
         //     freq[j]++;
-        // }
+        // } 
+        // this was the case when planes used runaway between arrival and departure.
+        // but here we are simple using planes "ON" arrrival and departure minute
         freq[A[i]]++;
         freq[D[i]]++;
     }
