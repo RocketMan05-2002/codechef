@@ -3,4 +3,5 @@
 3. Linear Chess = https://www.codechef.com/problems/LINCHESS
 4. Rock paper and Scissor - https://www.codechef.com/problems/PASCRO
 5. Zero ones equal one zeroes - https://www.codechef.com/problems/ZOOZ
-6. 
+6. Adjacent sum parity - https://www.codechef.com/problems/ADJSUMPAR
+7. 
