@@ -4,4 +4,7 @@
 4. Rock paper and Scissor - https://www.codechef.com/problems/PASCRO
 5. Zero ones equal one zeroes - https://www.codechef.com/problems/ZOOZ
 6. Adjacent sum parity - https://www.codechef.com/problems/ADJSUMPAR
-7. 
+7. Sub or swap - https://www.codechef.com/problems/ASM120
+8. Make permutation - https://www.codechef.com/problems/MAKEPERM?tab=statement
+9. Airport management - https://www.codechef.com/problems/AIRM?tab=statement
+10. SuperIncreasing - https://www.codechef.com/problems/SUPINC?tab=statement
