@@ -1,0 +1,6 @@
+1. Slow solution - https://www.codechef.com/problems/SLOWSOLN
+2. Make odd - https://www.codechef.com/problems/P2P
+3. Linear Chess = https://www.codechef.com/problems/LINCHESS
+4. Rock paper and Scissor - https://www.codechef.com/problems/PASCRO
+5. Zero ones equal one zeroes - https://www.codechef.com/problems/ZOOZ
+6. 
